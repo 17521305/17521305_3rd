@@ -24,6 +24,6 @@
   "apidoc": {
     "title": "API Doc",
     "version": "1.0.0",
-    "url": "http://localhost:5000/docs"
+    "url": "http://localhost:5000"
   }
 }
