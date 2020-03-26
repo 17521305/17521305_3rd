@@ -11,7 +11,7 @@ define({ "api": [
         "name": "Every type of user"
       }
     ],
-    "description": "<p>Get one user</p>",
+    "description": "<p>Get one task</p>",
     "parameter": {
       "fields": {
         "Parameter": [
